@@ -1,4 +1,4 @@
-# Stock
-for the backend & frontend
-npm i
-npm start
+# Stock<br>
+for the backend & frontend<br>
+npm i<br>
+npm start<br>
